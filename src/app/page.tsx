@@ -1181,7 +1181,7 @@ function CTASection() {
 
           <div style={{ display: "flex", flexDirection: "column", gap: "16px", alignItems: "center" }}>
             <a
-              href="mailto:hello@vd-career.com"
+              href="mailto:hello@vdcode.site"
               className="btn-primary"
               style={{ fontSize: "16px", padding: "16px 40px" }}
               id="cta-email-button"
